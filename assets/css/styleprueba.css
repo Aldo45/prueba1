@@ -1,2 +1,39 @@
-@media (min-width:576px){
-}
+
+     #nav{
+        position: fixed;
+        z-index: 99;
+        
+        }
+
+    body{
+        background-color: black !important;
+                
+        }    
+
+    h2{
+        text-align: center;
+        margin-top:6px 0;
+        }
+
+    
+    footer{
+        background-color:#17A2B8;
+        color: #ffffff;
+        text-align:justify;
+      
+    }
+
+    .iconos a{
+        color: white;
+        padding: 30px;
+        
+    }
+    
+    hr{
+        color: #17A2B8;
+            
+            }
+
+        @media (min-width:576px){
+
+        }
